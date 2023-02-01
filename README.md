@@ -1,5 +1,6 @@
-## Hi there 👋
-## I'm a Junior QA Engineer 
+## Hi there 👋 Nice to see you!
+## I'm a Junior QA Engineer, currently living in Warsaw, Poland
+
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1uUSHLv2z51jDR-OH6cbgZqq-K1BtOhOk/edit?usp=sharing&ouid=102270188727096157310&rtpof=true&sd=true)
 
