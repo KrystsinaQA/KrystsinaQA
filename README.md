@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 - [Postman Collections]()
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
